@@ -1,0 +1,14 @@
+name: Recipe request
+description: Ask for a new task to be documented as a recipe
+labels: [recipe]
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What should the agent be able to do in Affinity?
+      description: Describe the task and the expected result.
+    validations: { required: true }
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything you already tried

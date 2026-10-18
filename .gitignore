@@ -1,0 +1,22 @@
+# Local research notes and personal files (never published)
+research/
+*.jpg
+*.jpeg
+*.png
+!assets/**/*.png
+!assets/**/*.jpg
+*.af
+*.afphoto
+*.afdesign
+*.afpub
+
+# Skill Creator eval workspaces
+affinity-workspace/
+*-workspace/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
