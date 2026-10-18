@@ -10,4 +10,4 @@ All notable changes to this project are documented here. The format follows [Kee
 - Recipes built from runs on Affinity 3.3.1 (cutout not yet verified end to end): inspect, save a copy, new document, crop, resize, remove object, background blur, cutout, outpaint, Arabic text, social post, profile photo, export.
 - Plugins for Claude Code (with a marketplace entry), Cursor and Codex, plus `AGENTS.md` for other agents.
 - `scripts/affinity-sse-bridge.mjs`: a zero-dependency stdio-to-SSE relay for stdio-only MCP clients.
-- English and Arabic READMEs, LICENSE (MIT + Commons Clause), SECURITY, NOTICE, CONTRIBUTING, CODE_OF_CONDUCT, and issue/PR templates.
+- English and Arabic READMEs, LICENSE (MIT), SECURITY, NOTICE, CONTRIBUTING, CODE_OF_CONDUCT, and issue/PR templates.

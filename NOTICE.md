@@ -8,11 +8,6 @@ This project contains no code, documentation or assets copied from Affinity or C
 
 Canva AI features invoked through this project consume the user's own Canva plan allowance and are governed by Canva's terms.
 
-## License summary
+## License
 
-The project is licensed under **MIT with the Commons Clause** (see [LICENSE](LICENSE)):
-
-- You may use it freely, privately or commercially (for example in paid client design work), and you may modify and share it.
-- You may **not sell** the software itself, or a product or service whose value derives entirely or substantially from it (including paid hosting or support for it).
-
-Because of the Commons Clause this is source-available software, not "open source" in the OSI sense. For a different arrangement, contact the author.
+The project is open source under the [MIT License](LICENSE). You may use, copy, modify, merge, publish, distribute, sublicense and sell copies, provided the copyright notice and permission notice are kept.

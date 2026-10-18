@@ -5,6 +5,6 @@
   "author": { "name": "Mohammed Abo Alrejal", "url": "https://github.com/aboalrejalai" },
   "homepage": "https://github.com/aboalrejalai/affinity-mcp",
   "repository": "https://github.com/aboalrejalai/affinity-mcp",
-  "license": "LicenseRef-MIT-Commons-Clause",
+  "license": "MIT",
   "keywords": ["affinity","affinity-by-canva","affinity-mcp","mcp","model-context-protocol","design-automation","photo-editing","vector","canva-ai","agent-skill"]
 }

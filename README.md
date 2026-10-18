@@ -4,7 +4,7 @@
 
 **Let Claude, Cursor and Codex edit photos, design graphics and lay out documents in Affinity by Canva, through Affinity's built-in MCP server and JavaScript SDK.**
 
-[![License: MIT + Commons Clause](https://img.shields.io/badge/license-MIT%20%2B%20Commons%20Clause-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Affinity by Canva 3.3](https://img.shields.io/badge/Affinity%20by%20Canva-3.3.x-1f8f7a.svg)](https://www.affinity.studio/)
 [![MCP](https://img.shields.io/badge/MCP-built--in%20server-6f42c1.svg)](https://modelcontextprotocol.io/)
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757.svg)](#claude-code)
@@ -181,6 +181,6 @@ New recipes, corrections and client support are welcome. Read [CONTRIBUTING.md](
 
 ## License
 
-[MIT + Commons Clause](LICENSE) © 2026 Mohammed Abo Alrejal. You may use, modify and share this project freely, including in paid design work. You may not sell the project itself, or a product or service built mainly on it. See [NOTICE.md](NOTICE.md) for trademarks and the full summary.
+[MIT](LICENSE) © 2026 Mohammed Abo Alrejal. Free and open source: use it, modify it and share it, privately or commercially, as long as the copyright notice stays. See [NOTICE.md](NOTICE.md) for trademarks.
 
 <sub>Keywords: Affinity by Canva MCP, Affinity MCP server, Affinity AI automation, Claude Affinity, Cursor Affinity plugin, Codex Affinity plugin, Affinity scripting, Affinity JavaScript SDK, AI photo editing, AI graphic design, Model Context Protocol, agent skill.</sub>
