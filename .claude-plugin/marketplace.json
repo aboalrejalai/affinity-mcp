@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "affinity-mcp",
+  "description": "Agent skill and MCP wiring for Affinity by Canva.",
+  "owner": { "name": "Mohammed Abo Alrejal", "url": "https://github.com/aboalrejalai" },
+  "plugins": [
+    {
+      "name": "affinity",
+      "source": "./",
+      "description": "Control Affinity by Canva with AI agents: photo editing, vector design, layout, Arabic typography, Canva AI and export through the built-in MCP server and JavaScript SDK.",
+      "version": "1.0.0",
+      "author": { "name": "Mohammed Abo Alrejal" },
+      "category": "design",
+      "keywords": ["affinity","affinity-by-canva","affinity-mcp","mcp","model-context-protocol","design-automation","photo-editing","vector","canva-ai","agent-skill"]
+    }
+  ]
+}

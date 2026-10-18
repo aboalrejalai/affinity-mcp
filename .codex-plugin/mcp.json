@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "affinity": {
+      "cwd": ".",
+      "command": "node",
+      "args": ["./scripts/affinity-sse-bridge.mjs"]
+    }
+  }
+}

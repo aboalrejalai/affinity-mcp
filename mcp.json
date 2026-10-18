@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "affinity": {
+      "url": "http://localhost:6767/sse"
+    }
+  }
+}

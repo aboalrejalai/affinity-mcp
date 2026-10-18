@@ -1,0 +1,26 @@
+{
+  "name": "affinity",
+  "version": "1.0.0",
+  "description": "Control Affinity by Canva with AI agents: photo editing, vector design, layout, Arabic typography, Canva AI and export through the built-in MCP server and JavaScript SDK.",
+  "author": { "name": "Mohammed Abo Alrejal" },
+  "homepage": "https://github.com/aboalrejalai/affinity-mcp",
+  "repository": "https://github.com/aboalrejalai/affinity-mcp",
+  "license": "LicenseRef-MIT-Commons-Clause",
+  "keywords": ["affinity","affinity-by-canva","affinity-mcp","mcp","model-context-protocol","design-automation","photo-editing","vector","canva-ai","agent-skill"],
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json",
+  "interface": {
+    "displayName": "Affinity by Canva",
+    "shortDescription": "Edit photos and design in Affinity with AI",
+    "longDescription": "Control Affinity by Canva with AI agents: photo editing, vector design, layout, Arabic typography, Canva AI and export through the built-in MCP server and JavaScript SDK. Requires Affinity by Canva (April 2026 release or newer) running with Settings > Model Context Protocol > Enable Affinity MCP turned on.",
+    "developerName": "Mohammed Abo Alrejal",
+    "category": "Creativity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/aboalrejalai/affinity-mcp",
+    "defaultPrompt": [
+      "Remove the background from the photo open in Affinity and export a transparent PNG",
+      "Turn the open event photo into a centred square profile picture with a blurred background",
+      "Design a 1080x1080 Instagram post in Affinity with an Arabic headline"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "affinity",
+  "version": "1.0.0",
+  "description": "Control Affinity by Canva with AI agents: photo editing, vector design, layout, Arabic typography, Canva AI and export through the built-in MCP server and JavaScript SDK.",
+  "author": { "name": "Mohammed Abo Alrejal" },
+  "homepage": "https://github.com/aboalrejalai/affinity-mcp",
+  "repository": "https://github.com/aboalrejalai/affinity-mcp",
+  "license": "LicenseRef-MIT-Commons-Clause",
+  "keywords": ["affinity","affinity-by-canva","affinity-mcp","mcp","model-context-protocol","design-automation","photo-editing","vector","canva-ai","agent-skill"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
