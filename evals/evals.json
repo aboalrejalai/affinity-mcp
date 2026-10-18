@@ -1,0 +1,23 @@
+{
+  "skill_name": "affinity",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Affinity is open on my Mac. Make me an Instagram post, 1080x1080: dark teal to navy gradient background, a big white rounded card in the lower half with a soft shadow, and the Arabic headline \"خصم ٣٠٪ لفترة محدودة\" in white at the top, right aligned. Save it as an .af and export a PNG to my Desktop in a folder called affinity-evals/eval-1.",
+      "expected_output": "A new 1080x1080 document with a gradient background, a white card with an outer shadow, correctly shaped right-to-left Arabic headline (Arabic-capable font set), saved .af and a 1080x1080 PNG in <Desktop>/affinity-evals/eval-1, verified with render_spread.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "There's a photo at ~/Desktop/affinity-evals/input/portrait-test.jpg. Open it in Affinity, crop it to a square centred on the main shape, shrink it to 1500x1500, give it a warm look (warmer white balance and a bit more vibrance) using adjustments I can still tweak later, and export a high quality JPEG plus the layered .af into ~/Desktop/affinity-evals/eval-2. Don't touch the original file.",
+      "expected_output": "Original untouched; a copy saved as .af in eval-2 with crop to square, resampled to 1500x1500, live White Balance and Vibrance adjustment layers (non-destructive), JPEG export 1500x1500, renders checked.",
+      "files": ["~/Desktop/affinity-evals/input/portrait-test.jpg"]
+    },
+    {
+      "id": 3,
+      "prompt": "in affinity create an A5 flyer (300dpi) for my coffee shop 'Najd Roast': cream background, a brown circle logo with the shop initials, a headline, two lines of body text, and a QR code that links to https://example.com/menu at the bottom right. export it as a print-ready PDF and a PNG preview to ~/Desktop/affinity-evals/eval-3",
+      "expected_output": "A new A5 document at 300 dpi (1748x2480 px), cream background, brown circle with initials, headline and body text, a QR shape encoding the URL, exported with a PDF print/press preset and a PNG preview into eval-3, verified visually.",
+      "files": []
+    }
+  ]
+}
