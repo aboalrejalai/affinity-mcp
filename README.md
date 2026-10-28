@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/assets/cover.png" alt="affinity-mcp" width="100%"></p>
+
 <div align="center">
 
 # Affinity MCP: AI Agent Skill for Affinity by Canva
